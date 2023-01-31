@@ -7,7 +7,14 @@
 * [Project-pipeline](#project-pipeline)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#project-pipeline)
+* [Acknowledgements](#Acknowledgements)
+
+
+## Problem Statement
+
+### Business Understanding
+
+The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
 The data set contains the following diseases:
 
@@ -44,6 +51,12 @@ The data set contains the following diseases:
 
 ## Conclusions
 
+
+##Acknowledgements
+- https://seaborn.pydata.org/
+- https://plotly.com/
+- https://www.tensorflow.org/
+- https://matplotlib.org/
     
     
 Created by [mr.anantmpatil@gmail.com
