@@ -51,6 +51,11 @@ The data set contains the following diseases:
 
 ## Conclusions
 
+In the final model, there is no sign of underfitting/overfitting.
+Class rebalanced improved the model performance on both training and validation data
+In 30 epochs, the final model is able to achieve 76.8% training accuracy and 73.8% validation accuracy.
+The low difference between the training accuracy and validation accuracy signifies that the final CNN model is able to generalize well.
+Inclusion of batch normalization is degrading the accuracy of the final model, hence it is not used.
 
 ##Acknowledgements
 - https://seaborn.pydata.org/
@@ -59,8 +64,7 @@ The data set contains the following diseases:
 - https://matplotlib.org/
     
     
-Created by [mr.anantmpatil@gmail.com
-            https://www.linkedin.com/in/anant-patil-989a50225/] - feel free to contact me!
+
 
 
 
